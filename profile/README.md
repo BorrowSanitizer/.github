@@ -2,11 +2,10 @@
 
 BorrowSanitizer is work-in-progress LLVM instrumentation pass for detecting aliasing violations in multi-language Rust applications.
 
-<<<<<<< HEAD
+
 #### 🚧 This is an unstable research prototype 🚧 
-=======
+
 ---
 BorrowSanitizer is dual-licensed under [Apache](https://github.com/BorrowSanitizer/rust/blob/bsan/LICENSE-APACHE) and [MIT](https://github.com/BorrowSanitizer/rust/blob/bsan/LICENSE-MIT), following the Rust project.
 
 [<img src="zulip-icon-circle.svg" alt="Zulip" style="height: 1em;"/> Zulip](https://zulip.com/) sponsors free hosting for BorrowSanitizer. Zulip is an organized team chat app designed for efficient communication.
->>>>>>> f86cc95 (Added License and Zulip credit.)
